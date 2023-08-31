@@ -1,0 +1,12 @@
+[
+  {
+    "vaccineName": "A",
+    "price": "123",
+    "doses": "1"
+  },
+  {
+    "vaccineName": "B",
+    "price": "234",
+    "doses": "2"
+  }
+]
